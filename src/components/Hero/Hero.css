@@ -1,0 +1,31 @@
+.hero-section{
+    width: 86%;
+    max-width: 1170px;
+    margin: 0 auto;
+    height: auto;
+    display: flex;
+    position: relative;
+}
+.hero-left-info{
+    min-height: 366px;
+    width: 50%;
+    margin-top: 151px;
+}
+.hero-img{
+    width: 50%;
+    max-width: 585px;
+    margin-top: 72px;
+    height: 100%;
+}
+h2{
+    font-size: 54px;
+    font-weight: 700;
+    color: var(--primary);
+    margin: 0;
+}
+p{
+    font-weight: 400;
+    font-size: 18px;
+    color: var(--secondary);
+    margin-top: 18px;
+}
