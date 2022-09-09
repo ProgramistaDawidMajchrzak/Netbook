@@ -5,6 +5,7 @@
     height: auto;
     display: flex;
     position: relative;
+    align-items: center;
 }
 .hero-left-info{
     min-height: 366px;
@@ -14,7 +15,6 @@
 .hero-img{
     width: 50%;
     max-width: 585px;
-    margin-top: 72px;
     height: 100%;
 }
 h2{
